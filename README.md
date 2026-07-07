@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/openweft/brand/main/social/weft-loom-app-osx.png" alt="weft-loom-app-osx" width="720"></p>
+
 # weft-loom-app-osx
 
 macOS menu-bar client for the [Weft](https://github.com/openweft) dashboard.
