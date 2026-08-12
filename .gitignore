@@ -1,4 +1,4 @@
-/weft-app-osx
+/weft-loom-app-osx
 *.app
 *.dmg
 dist/
